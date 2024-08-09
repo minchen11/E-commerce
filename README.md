@@ -95,3 +95,33 @@ Aplikasi Anda sekarang seharusnya berjalan di [http://localhost:8000](http://loc
 - **MySQL**: Database relasional untuk menyimpan data aplikasi.
 - **Bootstrap 4**: Framework CSS untuk desain responsif.
 - **JWT (JSON Web Token)**: Sistem otentikasi untuk API.
+
+## Screenshot
+
+Berikut adalah beberapa tangkapan layar dari aplikasi:
+
+### Halaman Utama
+
+![Homepage](assets/images/homepage.png)
+![Homepage](assets/images/homepage2.png)
+
+### Halaman Shop
+
+![Testimonial](assets/images/shop.png)
+
+### Halaman login dan registrasi user
+
+![Testimonial](assets/images/loginuserpage.png)
+![Testimonial](assets/images/registernuserpage.png)
+
+### Halaman About
+
+![Testimonial](assets/images/about.png)
+
+### Halaman Checkout
+
+![Testimonial](assets/images/checkout.png)
+![Testimonial](assets/images/previewcheckout.png)
+![Testimonial](assets/images/payment.png)
+![Testimonial](assets/images/orders.png)
+
