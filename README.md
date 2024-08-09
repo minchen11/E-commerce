@@ -115,7 +115,7 @@ Berikut adalah beberapa tangkapan layar dari aplikasi:
 ![Testimonial](public/assets/image/checkout.png)
 
 ### Halaman Preview Checkout
-![Testimonial](public/assets/image/previewcheckout.png)
+![Testimonial](public/assets/image/previewecheckout.png)
 
 ### Halaman Payment
 ![Testimonial](public/assets/image/payment.png)
