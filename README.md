@@ -125,5 +125,9 @@ Berikut adalah beberapa tangkapan layar dari aplikasi:
 ![Testimonial](public/assets/image/payment.png)
 ![Testimonial](public/assets/image/orders.png)
 
-D:\laragon\www\ecommerce-laravel-main\public\assets\image
 
+# Support Me
+
+Jika tutorial dan proyek yang saya bagikan di sini bermanfaat bagi Anda, pertimbangkan untuk mendukung saya melalui Saweria. Dukungan Anda akan membantu saya untuk terus membuat dan memperbarui konten yang berguna. Terima kasih atas dukungan Anda!
+
+Kunjungi [Saweria](https://saweria.co/snowkel) untuk mendukung kami!
