@@ -102,26 +102,28 @@ Berikut adalah beberapa tangkapan layar dari aplikasi:
 
 ### Halaman Utama
 
-![Homepage](assets/images/homepage.png)
-![Homepage](assets/images/homepage2.png)
+![Homepage](public/assets/image/homepage.png)
+![Homepage](public/assets/image/homepage2.png)
 
 ### Halaman Shop
 
-![Testimonial](assets/images/shop.png)
+![Testimonial](public/assets/image/shop.png)
 
 ### Halaman login dan registrasi user
 
-![Testimonial](assets/images/loginuserpage.png)
-![Testimonial](assets/images/registernuserpage.png)
+![Testimonial](public/assets/image/loginuserpage.png)
+![Testimonial](public/assets/image/registernuserpage.png)
 
 ### Halaman About
 
-![Testimonial](assets/images/about.png)
+![Testimonial](public/assets/image/about.png)
 
 ### Halaman Checkout
 
-![Testimonial](assets/images/checkout.png)
-![Testimonial](assets/images/previewcheckout.png)
-![Testimonial](assets/images/payment.png)
-![Testimonial](assets/images/orders.png)
+![Testimonial](public/assets/image/checkout.png)
+![Testimonial](public/assets/image/previewcheckout.png)
+![Testimonial](public/assets/image/payment.png)
+![Testimonial](public/assets/image/orders.png)
+
+D:\laragon\www\ecommerce-laravel-main\public\assets\image
 
