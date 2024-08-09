@@ -57,31 +57,25 @@ Project ini adalah aplikasi website E-commerce yang dibangun menggunakan Laravel
     DB_PASSWORD=
     ```
 
-5. **Generate kunci aplikasi:**
+5. **Generate an application key:**
 
     ```bash
     php artisan key:generate
     ```
 
-6. **Generate an application key:**
-
-    ```bash
-    php artisan key:generate
-    ```
-
-7. **Jalankan migrasi:**
+6. **Jalankan migrasi:**
 
     ```bash
     php artisan migrate
     ```
 
-8. **Isi database (opsional):**
+7. **Isi database (opsional):**
 
     ```bash
     php artisan db:seed
     ```
 
-9. **Mulai server pengembangan:**
+8. **Mulai server pengembangan:**
 
     ```bash
     php artisan serve
@@ -103,7 +97,6 @@ Berikut adalah beberapa tangkapan layar dari aplikasi:
 ### Halaman Utama
 
 ![Homepage](public/assets/image/homepage.png)
-![Homepage](public/assets/image/homepage2.png)
 
 ### Halaman Shop
 
@@ -112,7 +105,6 @@ Berikut adalah beberapa tangkapan layar dari aplikasi:
 ### Halaman login dan registrasi user
 
 ![Testimonial](public/assets/image/loginuserpage.png)
-![Testimonial](public/assets/image/registernuserpage.png)
 
 ### Halaman About
 
@@ -121,8 +113,14 @@ Berikut adalah beberapa tangkapan layar dari aplikasi:
 ### Halaman Checkout
 
 ![Testimonial](public/assets/image/checkout.png)
+
+### Halaman Preview Checkout
 ![Testimonial](public/assets/image/previewcheckout.png)
+
+### Halaman Payment
 ![Testimonial](public/assets/image/payment.png)
+
+### Halaman Order
 ![Testimonial](public/assets/image/orders.png)
 
 
